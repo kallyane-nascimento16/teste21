@@ -1,0 +1,8 @@
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_1_console\desafio_1\bin\Debug\desafio_1.exe.config
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_1_console\desafio_1\bin\Debug\desafio_1.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_1_console\desafio_1\bin\Debug\desafio_1.pdb
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_1_console\desafio_1\obj\Debug\desafio_1.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_1_console\desafio_1\obj\Debug\desafio_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_1_console\desafio_1\obj\Debug\desafio_1.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_1_console\desafio_1\obj\Debug\desafio_1.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_1_console\desafio_1\obj\Debug\desafio_1.pdb
